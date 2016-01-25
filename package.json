@@ -1,0 +1,10 @@
+{
+  "name": "node-bot-hello",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./bot"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "0.19.2"
+  }
+}
